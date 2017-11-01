@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://rwebb94.github.io/)
+[![Resume Preview](img/me2.jpg)](https://rwebb94.github.io/)
 
 **[View Live Preview](https://rwebb94.github.io/)**
 
