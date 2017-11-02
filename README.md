@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](img/resume_website.png)](https://rwebb94.github.io/)
+[![Resume Preview](img/resume_website_new.png)](https://rwebb94.github.io/)
 
 **[View Live Preview](https://rwebb94.github.io/)**
 
